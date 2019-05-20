@@ -1,0 +1,11 @@
+C:\Users\fresh\OneDrive\Desktop\C-\bin\Debug\netcoreapp2.2\C-.deps.json
+C:\Users\fresh\OneDrive\Desktop\C-\bin\Debug\netcoreapp2.2\C-.runtimeconfig.json
+C:\Users\fresh\OneDrive\Desktop\C-\bin\Debug\netcoreapp2.2\C-.runtimeconfig.dev.json
+c:\Users\fresh\OneDrive\Desktop\C-\bin\Debug\netcoreapp2.2\C-.dll
+c:\Users\fresh\OneDrive\Desktop\C-\bin\Debug\netcoreapp2.2\C-.pdb
+c:\Users\fresh\OneDrive\Desktop\C-\obj\Debug\netcoreapp2.2\C-.csprojAssemblyReference.cache
+c:\Users\fresh\OneDrive\Desktop\C-\obj\Debug\netcoreapp2.2\C-.csproj.CoreCompileInputs.cache
+c:\Users\fresh\OneDrive\Desktop\C-\obj\Debug\netcoreapp2.2\C-.AssemblyInfoInputs.cache
+c:\Users\fresh\OneDrive\Desktop\C-\obj\Debug\netcoreapp2.2\C-.AssemblyInfo.cs
+c:\Users\fresh\OneDrive\Desktop\C-\obj\Debug\netcoreapp2.2\C-.dll
+c:\Users\fresh\OneDrive\Desktop\C-\obj\Debug\netcoreapp2.2\C-.pdb
